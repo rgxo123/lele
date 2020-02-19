@@ -1,12 +1,12 @@
 {
     "name": "rgxo123/lele",
-    "description": "lele project",
+    "description": "lele321 project",
     "type": "project",
     "license": "mit",
     "authors": [
         {
-            "name": "luoyanloen",
-            "email": "765767463@qq.com",
+            "name": "luo xiaoyan",
+            "email": "765767463@qq.com"
         }
     ],
     "minimum-stability": "dev",
